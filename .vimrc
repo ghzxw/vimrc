@@ -10,6 +10,8 @@ set laststatus=2
 "
 " taglist
 "
+set tags=tags;
+
 let Tlist_Auto_Open=1
 let Tlist_Exit_OnlyWindow=1
 let Tlist_Show_One_File=1
