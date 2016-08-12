@@ -16,6 +16,10 @@ let Tlist_Auto_Open=1
 let Tlist_Exit_OnlyWindow=1
 let Tlist_Show_One_File=1
 
+" YCM
+"
+let g:ycm_global_ycm_extra_conf = '~/.vim/bundle/YouCompleteMe/third_party/ycmd/cpp/ycm/.ycm_extra_conf.py' 
+
 "
 " vundle
 "  
